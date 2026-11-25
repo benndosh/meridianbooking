@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Health Booking",
+  "description": "Hospital appointment scheduling, specialist discovery, and clinical reception queue system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
